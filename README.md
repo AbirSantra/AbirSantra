@@ -1,10 +1,124 @@
-Hey there, I am Abir Santra and I love coding, designing and developing stuff! 😄😄❤
 
-I am currently a 4-Star in Problem Solving at HackerRank. I am proficient in C, C++, Java, Python(basics) and JavaScript. I am not really interested in Competitive Programming and Contests but I have a passion for Development instead. I am currently learning Full Stack Web Development with the MERN stack and I am familiar with technologies like HTML, CSS, SASS, Bootstrap, jQuery, Node, Express, etc. I also plan to learn App Development in the future. I want to be able to develop awesome Websites and Apps!
+![Profile Banner](https://i.imgur.com/ycSHe13.png)
 
-I have also been working as a freelance Graphics Designer ever since my school days on Freelancing platforms such as Fiverr and Freelancer. I have worked as a designer for Cryptic Records as well as RadioAktiv Lifestyle, which are both startups. The tools I use mainly include Adobe Photoshop, Adobe Illustrator, Adobe XD, Canva, etc. I am also currently learning UI/UX so that I can implement it while developing websites and apps.
+<br>
 
-I am fairly positive, strong-willed and I always finish what I start. It is my dream to be happy in life and work at a job where I get to do what I love i.e. designing and developing stuff. In my leisure time I love to hangout with my awesome friends and play video games, build various kinds of projects, play the drums, watch Anime and anything related to Japan because I love Japan ❤
+**I'm a simple guy with a passion for development and design. I enjoy creating things that make a difference.**
+
+<br>
+
+## 💫 About Me:
+
+<br>I started coding in high school and currently am a second-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>I am pretty positive and strong-willed and I always finish what I start. <br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music, jam on my drums, and watch Anime. Also, I love pasta.
+
+<br>
+
+## ✨ Now:
+
+- Second Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
+- Building **Polaroid - An online platform for creators**
+- Learning and exploring the world of **DevOps** and **Web 3.0**
+- Contributing to **Open Source**
+- Writing articles about **everything I learn**
+- Looking for **Developer Roles** (preferably remote but open to all options)
+
+<br>
+
+## 🧑🏽‍💻 Portfolio:
+You can find me at: <https://www.abirsantra.com>
+
+<br>
+
+
+
+<br>
+
+## 💻 Tech Stack:
+
+<br>
+
+### Development:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Programming:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### Design:
+
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+
+
+<br>
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/drummingfreak)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedrummingfreak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abir-santra-8a9305205)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DezignDeck)<br>
+
+<br>
+
+
+
+<br>
+
+## 📊 GitHub Stats:
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=AbirSantra&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbirSantra&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirSantra&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=AbirSantra&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=AbirSantra&icon=9&color=0)](https://visitcount.itsvg.in)
+
+
+<br>
+
+
+
+
 
 That's it! Thank you for checking out my profile and reading through all of that.😅😅 
 Have a wonderful day ahead! 😄😄😊😊
