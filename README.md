@@ -15,7 +15,7 @@
 
 ## ✨ Now:
 
-- Second Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
+- Third Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
 - Building **Polaroid - An online platform for creators**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
