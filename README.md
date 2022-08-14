@@ -16,7 +16,7 @@
 ## ✨ Now:
 
 - Third Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
-- Building **Polaroid - An online platform for creators**
+- Building **Accent - A platform for artists and photographers**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
 - Writing articles about **everything I learn**
