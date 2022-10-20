@@ -1,5 +1,5 @@
 
-![Profile Banner](https://i.imgur.com/ycSHe13.png)
+![Profile Banner](https://i.imgur.com/ab8X3Ds.png)
 
 <br>
 
@@ -16,7 +16,7 @@
 ## ✨ Now:
 
 - Third Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
-- Building **Accent - A platform for artists and photographers**
+- Building **Resu.me - An online resume builder for students**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
 - Writing articles about **everything I learn**
