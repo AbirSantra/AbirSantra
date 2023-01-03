@@ -3,7 +3,7 @@
 
 <br>
 
-**I'm a simple guy with a passion for development and design. I enjoy creating things that make a difference.**
+**I'm a simple guy with a passion for development and design. I enjoy creating things out of code.**
 
 <br>
 
