@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-<br>I started coding in high school and currently am a second-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>I am pretty positive and strong-willed and I always finish what I start. <br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music, jam on my drums, and watch Anime. Also, I love pasta.
+<br>I started coding in high school and currently am a third-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>I am positive and strong-willed and I always finish what I start. <br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music, jam on my drums, and watch Anime. Also, I love pasta.
 
 <br>
 
