@@ -20,7 +20,6 @@
 - Building **Resu.me - An online resume builder for students**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
-- Writing articles about **everything I learn**
 - Looking for **Developer Roles** (preferably remote but open to all options)
 
 <br>
