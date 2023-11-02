@@ -9,14 +9,16 @@
 
 ## 💫 About Me:
 
-<br>I started coding in high school and currently am a third-year undergraduate studying Information Technology at MCKV Institute of Engineering, looking for opportunities.<br>I am positive and strong-willed and I always finish what I start. <br>My dream is to be happy in life and do what I love.<br>When I'm not coding, I love to hang out with my friends and play video games, listen to music, jam on my drums, and watch Anime. Also, I love pasta.
+Hi there! I’m Abir, a web designer and developer who has been tinkering with code since high school, and it has been my passion ever since!
+<br>
+When I’m not coding, you can find me hanging out with my friends, playing video games, listening to music, jamming on my drums, or watching Anime. Thank you for taking the time to learn a little bit about me. I'm excited about the possibilities that the future holds, and I can't wait to see where my coding journey takes me!
 
 <br>
 
 ## ✨ Now:
 
 - Backend Developer Intern at **Exambazaar**
-- Third Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
+- Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
 - Building **Resu.me - An online resume builder for students**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
@@ -115,9 +117,6 @@ You can find me at: <https://www.abirsantra.com>
 
 
 <br>
-
-
-[![@blackflash's Holopin board](https://holopin.io/api/user/board?user=blackflash)](https://holopin.io/@blackflash)
 
 
 That's it! Thank you for checking out my profile and reading through all of that.😅😅 
