@@ -17,7 +17,7 @@ When I’m not coding, you can find me hanging out with my friends, playing vide
 
 ## ✨ Now:
 
-- Backend Developer Intern at **Exambazaar**
+- Full Stack Developer at **Paraheights (under Exambazaar)**
 - Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
 - Building **Resu.me - An online resume builder for students**
 - Learning and exploring the world of **DevOps** and **Web 3.0**
