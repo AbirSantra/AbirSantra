@@ -17,9 +17,9 @@ When I’m not coding, you can find me hanging out with my friends, playing vide
 
 ## ✨ Now:
 
-- Full Stack Developer at **Paraheights (under Exambazaar)**
-- Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Information Technology**
-- Building **Resu.me - An online resume builder for students**
+- Full Stack Developer at **Paraheights Technologies (under Exambazaar)**
+- Graduated from **MCKV Institute of Engineering**. Bachelors in **Information Technology**
+- Building **HackMates** - Bringing teams together to turn ideas into realities
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
 - Looking for **Developer Roles** (preferably remote but open to all options)
