@@ -19,7 +19,7 @@ When I’m not coding, you can find me hanging out with my friends, playing vide
 
 - Full Stack Developer at **Paraheights Technologies (under Exambazaar)**
 - Graduated from **MCKV Institute of Engineering**. Bachelors in **Information Technology**
-- Building **HackMates** - Bringing teams together to turn ideas into realities
+- Building **Resoomate** - AI-powered ATS-friendly Resume Builder to help you secure your next job!
 - Learning and exploring the world of **DevOps** and **Web 3.0**
 - Contributing to **Open Source**
 - Looking for **Developer Roles** (preferably remote but open to all options)
